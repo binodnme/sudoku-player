@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="box.c" open="1" top="0" tabpos="3">
+		<Cursor position="3498" topLine="115" />
+	</File>
+	<File name="curmove.c" open="1" top="0" tabpos="6">
+		<Cursor position="129" topLine="0" />
+	</File>
+	<File name="data.c" open="1" top="0" tabpos="4">
+		<Cursor position="2727" topLine="70" />
+	</File>
+	<File name="error.c" open="1" top="0" tabpos="5">
+		<Cursor position="2850" topLine="0" />
+	</File>
+	<File name="level.c" open="1" top="0" tabpos="2">
+		<Cursor position="1218" topLine="35" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1">
+		<Cursor position="3306" topLine="111" />
+	</File>
+</CodeBlocks_layout_file>

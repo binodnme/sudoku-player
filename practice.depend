@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1330663518 source:f:\files\only binod\restricted\kb\codeblocks\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<direct.h>
+
+1330663520 
+
+1328499097 source:f:\files\only binod\restricted\kb\codeblocks\practice\file1.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1330663100 >
+
+1330663459 source:f:\files\only binod\restricted\kb\codeblocks\practice\error.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1330663098 source:f:\files\only binod\restricted\kb\codeblocks\practice\box.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1330663509 source:f:\files\only binod\restricted\kb\codeblocks\practice\data.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1330663610 
+
+1329063943 source:f:\files\only binod\restricted\kb\codeblocks\practice\start.c
+	<stdio.h>
+
+1330663609 source:f:\files\only binod\restricted\kb\codeblocks\practice\level.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1330663647 source:f:\files\only binod\restricted\kb\codeblocks\practice\curmove.c
+	<stdio.h>
+
+1330663648 source:h:\practice\curmove.c
+	<stdio.h>
+
+1330664226 source:h:\practice\data.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1330663460 source:h:\practice\error.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1330663610 source:h:\practice\level.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1330663520 source:h:\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<direct.h>
+
+1330663100 source:h:\practice\box.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1330663648 source:i:\project\curmove.c
+	<stdio.h>
+
+1330664226 source:i:\project\data.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1330663460 source:i:\project\error.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1330663610 source:i:\project\level.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1330663520 source:i:\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<direct.h>
+
+1330663100 source:i:\project\box.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1330663648 source:g:\project\curmove.c
+	<stdio.h>
+
+1330664226 source:g:\project\data.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1330663460 source:g:\project\error.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1330663610 source:g:\project\level.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1330663520 source:g:\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<direct.h>
+
+1330663100 source:g:\project\box.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1355886876 source:/home/binodnme/projects/sudoku/project/project/box.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1355886876 source:/home/binodnme/projects/sudoku/project/project/curmove.c
+	<stdio.h>
+
+1355886876 source:/home/binodnme/projects/sudoku/project/project/data.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1355886876 source:/home/binodnme/projects/sudoku/project/project/error.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1355886876 source:/home/binodnme/projects/sudoku/project/project/level.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1355886876 source:/home/binodnme/projects/sudoku/project/project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<direct.h>
+
